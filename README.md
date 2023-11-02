@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sam
+- 👀 I’m interested in programimg.
+- 🌱 I’m currently learning python.
+- 📫 How to reach me ..mail: venkatsyam@gmail.com
+- Completed Languages✨"C-coding"✨ 
